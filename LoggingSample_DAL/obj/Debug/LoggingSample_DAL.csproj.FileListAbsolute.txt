@@ -1,0 +1,12 @@
+E:\Dev\dotnetlab-2018q3\Logging & audit\LoggingSample\LoggingSample_DAL\bin\Debug\LoggingSample_DAL.dll.config
+E:\Dev\dotnetlab-2018q3\Logging & audit\LoggingSample\LoggingSample_DAL\bin\Debug\LoggingSample_DAL.dll
+E:\Dev\dotnetlab-2018q3\Logging & audit\LoggingSample\LoggingSample_DAL\bin\Debug\LoggingSample_DAL.pdb
+E:\Dev\dotnetlab-2018q3\Logging & audit\LoggingSample\LoggingSample_DAL\bin\Debug\EntityFramework.dll
+E:\Dev\dotnetlab-2018q3\Logging & audit\LoggingSample\LoggingSample_DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Dev\dotnetlab-2018q3\Logging & audit\LoggingSample\LoggingSample_DAL\bin\Debug\EntityFramework.xml
+E:\Dev\dotnetlab-2018q3\Logging & audit\LoggingSample\LoggingSample_DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Dev\dotnetlab-2018q3\Logging & audit\LoggingSample\LoggingSample_DAL\obj\Debug\LoggingSample_DAL.csprojAssemblyReference.cache
+E:\Dev\dotnetlab-2018q3\Logging & audit\LoggingSample\LoggingSample_DAL\obj\Debug\LoggingSample_DAL.csproj.CoreCompileInputs.cache
+E:\Dev\dotnetlab-2018q3\Logging & audit\LoggingSample\LoggingSample_DAL\obj\Debug\LoggingSample_DAL.csproj.CopyComplete
+E:\Dev\dotnetlab-2018q3\Logging & audit\LoggingSample\LoggingSample_DAL\obj\Debug\LoggingSample_DAL.dll
+E:\Dev\dotnetlab-2018q3\Logging & audit\LoggingSample\LoggingSample_DAL\obj\Debug\LoggingSample_DAL.pdb
