@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logs>
+  <log MachineName="HARTMEYERORUM88" Exception="null" LoggerName="LoggingSample.Controllers.CustomersController" Level="Info" Message="Start getting all customers." MessageSource="D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample\Controllers\CustomersController.cs" TimeStamp="2019-03-24T17:42:26.3613543+03:00" />
+  <log MachineName="HARTMEYERORUM88" Exception="null" LoggerName="LoggingSample.Controllers.CustomersController" Level="Info" Message="Retrieving customers to response." MessageSource="D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample\Controllers\CustomersController.cs" TimeStamp="2019-03-24T17:42:37.0380885+03:00" />
+  <log MachineName="HARTMEYERORUM88" Exception="null" LoggerName="LoggingSample.Controllers.CustomersController" Level="Info" Message="Start getting all customers." MessageSource="D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample\Controllers\CustomersController.cs" TimeStamp="2019-03-24T17:42:59.7077416+03:00" />
+  <log MachineName="HARTMEYERORUM88" Exception="null" LoggerName="LoggingSample.Controllers.CustomersController" Level="Info" Message="Retrieving customers to response." MessageSource="D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample\Controllers\CustomersController.cs" TimeStamp="2019-03-24T17:43:01.3517481+03:00" />
+</logs>

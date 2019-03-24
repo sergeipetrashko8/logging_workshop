@@ -53,7 +53,7 @@ namespace LoggingSample.Controllers
                     Logger.Warn($"Wrong customerId has been request: {customerId}", ex);
                     return BadRequest($"Wrong customerId has been request: {customerId}");
                 }
-                throw;
+                throw ex;
             }
             catch (Exception ex)
             {

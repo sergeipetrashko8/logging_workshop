@@ -39,7 +39,6 @@ namespace LoggingSample_BLL.Services
             });
         }
 
-
         public void Dispose()
         {
             _context.Dispose();
