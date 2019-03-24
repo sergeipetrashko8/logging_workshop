@@ -1,0 +1,14 @@
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_Logs_DAL\bin\Debug\LoggingSample_Logs_DAL.dll.config
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_Logs_DAL\bin\Debug\LoggingSample_Logs_DAL.dll
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_Logs_DAL\bin\Debug\LoggingSample_Logs_DAL.pdb
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_Logs_DAL\bin\Debug\EntityFramework.dll
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_Logs_DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_Logs_DAL\bin\Debug\EntityFramework.xml
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_Logs_DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_Logs_DAL\obj\Debug\LoggingSample_Logs_DAL.csprojAssemblyReference.cache
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_Logs_DAL\obj\Debug\LoggingSample_Logs_DAL.Migrations.Initial.resources
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_Logs_DAL\obj\Debug\LoggingSample_Logs_DAL.csproj.GenerateResource.cache
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_Logs_DAL\obj\Debug\LoggingSample_Logs_DAL.csproj.CoreCompileInputs.cache
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_Logs_DAL\obj\Debug\LoggingSample_Logs_DAL.csproj.CopyComplete
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_Logs_DAL\obj\Debug\LoggingSample_Logs_DAL.dll
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_Logs_DAL\obj\Debug\LoggingSample_Logs_DAL.pdb

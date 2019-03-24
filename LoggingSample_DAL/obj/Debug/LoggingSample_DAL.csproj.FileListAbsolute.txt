@@ -10,3 +10,17 @@ E:\Dev\dotnetlab-2018q3\Logging & audit\LoggingSample\LoggingSample_DAL\obj\Debu
 E:\Dev\dotnetlab-2018q3\Logging & audit\LoggingSample\LoggingSample_DAL\obj\Debug\LoggingSample_DAL.csproj.CopyComplete
 E:\Dev\dotnetlab-2018q3\Logging & audit\LoggingSample\LoggingSample_DAL\obj\Debug\LoggingSample_DAL.dll
 E:\Dev\dotnetlab-2018q3\Logging & audit\LoggingSample\LoggingSample_DAL\obj\Debug\LoggingSample_DAL.pdb
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_DAL\bin\Debug\LoggingSample_DAL.dll.config
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_DAL\bin\Debug\LoggingSample_DAL.dll
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_DAL\bin\Debug\LoggingSample_DAL.pdb
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_DAL\bin\Debug\EntityFramework.dll
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_DAL\bin\Debug\EntityFramework.xml
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_DAL\obj\Debug\LoggingSample_DAL.csprojAssemblyReference.cache
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_DAL\obj\Debug\LoggingSample_DAL.Migrations.Initial.resources
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_DAL\obj\Debug\LoggingSample_DAL.csproj.GenerateResource.cache
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_DAL\obj\Debug\LoggingSample_DAL.csproj.CoreCompileInputs.cache
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_DAL\obj\Debug\LoggingSample_DAL.csproj.CopyComplete
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_DAL\obj\Debug\LoggingSample_DAL.dll
+D:\Work\Lab Tasks\10. Logging_Audit\LoggingSample\LoggingSample_DAL\obj\Debug\LoggingSample_DAL.pdb

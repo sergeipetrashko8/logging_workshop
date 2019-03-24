@@ -58,10 +58,12 @@
   <ItemGroup>
     <Compile Include="Helpers\SimpleMapper.cs" />
     <Compile Include="LogTargets\DbTarget.cs" />
+    <Compile Include="LogTargets\XMLTarget.cs" />
     <Compile Include="Models\CustomerModel.cs" />
     <Compile Include="Models\OrderModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\CustomerService.cs" />
+    <Compile Include="Services\OrderService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LoggingSample_DAL\LoggingSample_DAL.csproj">
