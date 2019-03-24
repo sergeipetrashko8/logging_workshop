@@ -36,7 +36,6 @@ namespace LoggingSample_BLL.LogTargets
 
                 await logContext.SaveChangesAsync(cancellationToken);
             }
-
         }
     }
 }
